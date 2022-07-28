@@ -6,9 +6,11 @@ For this project, the use of programming tools will be implemented in order to t
 
 ## Results:
 figure 1: June Temperature Statistics
+
 ![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png)
 
 figure 2: December Temperature Statistics
+
 ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
 
 figure 1 June Temps:
