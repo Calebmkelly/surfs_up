@@ -43,4 +43,4 @@ while the temperatures look great, developing queries to find the the precipitat
 
 Below is a screen shot of two queries that can be run: Query one grabs the precipitation data from june, and Query two grabs precipitation data from December
 
-![Additional_Queries.png](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Addition_Queries.png)
+![Additional_Queries.png](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Additional_Queries.png)
