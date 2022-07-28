@@ -7,9 +7,7 @@ For this project, the use of programming tools will be implemented in order to t
 ## Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
-![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png)
-
-![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
+![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png) ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
 
 ## Summary:
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
