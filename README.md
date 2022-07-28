@@ -41,6 +41,6 @@ Taking a look at the results, both June and December have promising temperatures
 
 while the temperatures look great, developing queries to find the the precipitation rate for each month can help bring a better understanding of the wheather conditions in Oahu, as many people may not like surfing or eating ice cream in the rain.
 
-Below is a screen shot of two queries that can be run: Query one grabs the precipitation data from june, and Query two grabs precipitation data from December
+Below is a screen shot of two queries that can be run: the first query grabs the precipitation data from june, the second query grabs precipitation data from December.
 
 ![Additional_Queries.png](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Additional_Queries.png)
