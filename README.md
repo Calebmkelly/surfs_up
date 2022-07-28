@@ -39,6 +39,5 @@ Above are the results in image form and in text. The data seems to differ in eve
 
 Taking a look at the results, both June and December have promising temperatures. Although the minimum temperatures for both June and December, 64 and 56, are quite low for "Ice Cream" temperatures, this point of data should not be discouraging as the average temperature for both months is above 70 degrees Fahrenheit. in addition, the minimum temperature is three standard deviations away from the mean for both months, providing that minimum temperature is close to being an outlier. furthermore, both months have the 25 percentile around 70 degrees, this illustrates how most of the data is in a preferred range for both shops. 
 
-A Query to find the 
+while the temperatures look great, developing queries to find the the precipitation rate for each month can help bring a better understanding of the wheather conditions in Oahu, as many people may not like surfing or eating ice cream in the rain.
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
