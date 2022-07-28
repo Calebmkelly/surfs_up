@@ -6,8 +6,28 @@ For this project, the use of programming tools will be implemented in order to t
 
 ## Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
+figure 1: June Temperature Statistics figure 2: December Temperature Statistics
 ![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png) ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
+
+figure 1 June Temps:
+- Count: 1700
+- Mean: 74.944
+- Standard deviation: 3.257
+- Minimum: 64
+- 25 Percentile: 73
+- 50 percentile: 75
+- 75 percentile: 77
+- Maximum: 85
+
+figure 2 Dec Temps:
+- Count: 1517
+- Mean: 71.042
+- Standard deviation: 3.746
+- Minimum: 56
+- 25 Percentile: 69 
+- 50 percentile: 71
+- 75 percentile: 74
+- Maximum: 83
 
 ## Summary:
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
