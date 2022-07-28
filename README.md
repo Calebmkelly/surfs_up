@@ -13,8 +13,8 @@ figure 2: December Temperature Statistics
 
 ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
 
-figure 1 June Temps:              |               figure 2 Dec Temps:
-- Count: 1700                     |               - Count: 1517
+figure 1 June Temps:
+- Count: 1700
 - Mean: 74.944
 - Standard deviation: 3.257
 - Minimum: 64
@@ -33,5 +33,9 @@ figure 2 Dec Temps:
 - 75 percentile: 74
 - Maximum: 83
 
+Above are the results in image form and in text. The data seems to differ in every aspect, taking a closer look at three components, Minimum, Average, and Maximum can elucidate a more clear idea as too wether or not the temperatures extracted are in a good range that suits a surf/ice cream shop. In Fahrenheit, June has a minimum temperature of 64 degrees, an average temperature of around 75 degrees, and a maximum temperature of 85 degrees. For the month of December, there is a minimum temperature of 56 degrees, an average temperature of around 71 degrees, and a maximum temperature of 83 degrees.
+
 ## Summary:
+
+
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
