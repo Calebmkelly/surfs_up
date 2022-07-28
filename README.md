@@ -5,9 +5,11 @@
 For this project, the use of programming tools will be implemented in order to thoroughly analyze the climate data in Oahu, with an emphasis on June and December. These programming tools include SQLite, SQLAlchemy, and Flask, the data provided from these tools can be utilized in order to pursue a location that fits the needs of a ice cream and surf shop. gathering the data from both June and December will help give an idea on the year round sustainability that each shop will have in accordance to their locations temperature range over the years
 
 ## Results:
-figure 1: June Temperature Statistics figure 2: December Temperature Statistics
+figure 1: June Temperature Statistics
+![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png)
 
-![June_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/June_Temps.png)                       ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
+figure 2: December Temperature Statistics
+![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
 
 figure 1 June Temps:
 - Count: 1700
