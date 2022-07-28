@@ -13,8 +13,8 @@ figure 2: December Temperature Statistics
 
 ![Dec_Temps](https://github.com/Calebmkelly/surfs_up/blob/main/Resources/Dec_Temps.png)
 
-figure 1 June Temps:
-- Count: 1700
+figure 1 June Temps:              figure 2 Dec Temps:
+- Count: 1700                     - Count: 1517
 - Mean: 74.944
 - Standard deviation: 3.257
 - Minimum: 64
